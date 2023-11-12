@@ -1,0 +1,13 @@
+%![](r_fly.jpg){width=50%}
+
+# Welcome {.unnumbered}
+
+
+
+## Goals {.unnumbered}
+
+Share protocol
+Alternatives
+Equipment, tools, set up
+Challanges
+Trouble shooting
