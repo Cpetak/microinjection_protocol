@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Collecting eggs and sperm
+## Collecting eggs and sperm {.unnumbered}
 
 1. Prepare a beaker (1000 ml) with sea water (12&deg;C, RO + instant ocean salt). Check for correct salinity (~33%)! Adjust salinity if needed. Pour 25 ml of the filtered sea water into a 50 ml centrifuge tube and add 25ul of 1M 3-aminotriazole (3-AT) stock solution^[Prepare 1 M stock solution of 3-aminotriazole (3-AT, MW = 84.08) by dissolving 0.84 g of 3-AT in 10 ml of ddH2O. This solution can be stored at 4 °C for up to 6 months.] to it. “Label as 3AT filtered sea water”. Place the 3AT sea water on ice.
 
