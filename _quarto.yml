@@ -1,0 +1,25 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Sea Urchin Microinjection Protocol"
+  author: "Csenge Petak"
+  date: "Fall 2023"
+  chapters:
+    - index.qmd
+    - eggs_sperm.qmd
+    - microinjection.qmd
+
+bibliography: references.bib
+
+from: markdown+emoji
+
+format:
+  html:
+    theme: 
+    - cosmo
+    - color.scss
+
+
+
