@@ -34,7 +34,7 @@ Preparing syringe
 
 5. Hold urchin upside down in one hand, hold firmly, and shake the urchin confidently. 
 
-{{< video micro_photos/included/shaking_for_spawning.mp4 width="350" height="400">}}
+![Shaking to spawn urchin](micro_photos/included/shaking_for_spawning.mp4){width=300}
 
 
 6. Place urchin upside down on small full beaker. Make sure that the genital pores are submerged in water. Wait 3-5 minutes. Check for white substance in water regularly. 
