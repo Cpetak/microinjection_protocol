@@ -73,7 +73,11 @@ Collecting eggs
 
 12. Place sperm/eggs on ice. Note time (hour and minutes) in lab book. Label both eggs and sperm.
 
-13. Filter the eggs from debris such as animal spines using 80 um nylon filter mesh. The best results are achieved if the eggs are used within 5-7 hr after spawning. Keep filtered eggs on ice.
+13. Filter the eggs from debris such as animal spines using 80 um nylon filter mesh. The best results are achieved if the eggs are used within 5-7 hr after spawning. Keep filtered eggs on ice. 
+
+NOTE: Use a 3ml transfer pipette to pipette up and down near the eggs to stir them up before pouring them through the filter! This is to avoid missing eggs that get stuck to the bottom.
+
+![Stir eggs with transfer pipette](micro_photos/included/stir_eggs.jpg){width=300}
 
 ::: {#fig-filtering layout="[40,40,40]"}
 

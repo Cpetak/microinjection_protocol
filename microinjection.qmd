@@ -6,8 +6,6 @@ editor_options:
 
 ## Microinjections {.unnumbered}
 
-Needle puller 67.4, 80.2
-
 ### Preparation of injection solution and needle
 
 Prepare the following injection solution, preferably the same day it is going to be used.
@@ -22,16 +20,136 @@ Prepare the following injection solution, preferably the same day it is going to
 | ddH2O |  -   | To add up to 20 ul |
 
 :::{.callout-tip icon="false" collapse="true" appearance="minimal"}
-
 ### Linearised construct
-
 This is restriction enzyme digested plasmid.
 :::
 
-## Alternative methods
+:::{.callout-tip icon="false" collapse="true" appearance="minimal"}
+### gDNA
+HindIII digested and purified genomic DNA extracted from urchin epidermal tissue.
+:::
 
-## Challanges
+:::{.callout-tip icon="false" collapse="true" appearance="minimal"}
+### Control dye
+Texas Red dye.
+:::
 
-## Troubleshooting
+Injection solution should be centrifuged for 15 minutes at max speed immediately before filling the microinjection needle.
 
-Protocol for preparing ingredients/equipment: 
+#### Preparation of the needle
+
+We used a Narishige puller, model PP-830
+
+::: {#fig-eggs layout="[40,40]"}
+
+![Needle puller machine](micro_photos/included/needle_puller.jpg){#fig-puller1}
+
+![6th grid setting](micro_photos/included/needle_puller2.jpg){#fig-puller2}
+
+Needle puller set up
+:::
+
+with the following settings:
+
+Two stage: 67.4&deg;C, 80.2&deg;C.
+
+Weight: 248.01 g
+
+::: {#fig-eggs layout="[40,40]"}
+
+![Puller weights on scale](micro_photos/included/needle_puller_weights.jpg){#fig-weights1}
+
+![Puller weights on the machine](micro_photos/included/puller_weight.jpg){#fig-weights2}
+
+Weights used for the puller
+:::
+
+::: {#fig-eggs layout="[40,40]"}
+
+![Storing pulled needles](micro_photos/included/needle_ends2.jpg){#fig-doneneedles1}
+
+![Pulled needle ends](micro_photos/included/needles_ends.jpg){#fig-doneneedles2}
+
+Pulled needles
+:::
+
+#### Filling the needle
+
+To fill the needles, pipette up 0.5 ul of injection solution. Use a 10ul pipette tip. Make sure to get the liquid from the top/middle of the tube in order to avoid any precipitate stuck to the bottom/sides of the tube during the centrifugation. 
+
+Put a piece of clay on the side of a table and push the needle upside down into it. Fill needle by touching the end of the needle with the tip of the pipette and pushing out the liquid with the pipette. Make sure that the liquid enters the needle instead of just sitting on top. 
+
+![Filling needles](micro_photos/included/needle_filling.jpg){width=300}
+
+Mount needle onto the macromanipulator:
+
+::: {#fig-eggs layout="[40,40]"}
+
+![Insert needle into needle holder, end first, make sure needle end is visible](micro_photos/included/needle_holder1.jpg){#fig-holder1}
+
+![Needle in needle holder](micro_photos/included/needle_holder2.jpg){#fig-holder2}
+
+Using the needle holder (aka grip head)
+:::
+
+::: {#fig-eggs layout="[40,40]"}
+
+![Take off capillary holder (metal rod) and screw in needle holder](micro_photos/included/macromanipulator.jpg){#fig-macroman}
+
+![Make sure that the capillary holder is at 30&deg;](micro_photos/included/needle_holder3.jpg){#fig-holder3}
+
+Setting up macromanipulator
+:::
+
+### Preparing the petri dish
+
+Take a PS-coated petri dish, mark middle with a straight black line with marker on the outer side of the dish. Take a razor blade and make a cut parallel to the black line halfway between the black line and the edge of the dish on the inner side of the dish. This scratch will be important to break the injection needle to adjust the flow of solution as needed.
+
+![Prepared petri dish](micro_photos/included/petri_dish_prep.jpg){width=300}
+
+Pipette 4 ml of 1 mM 3-AT sea water (prepared in the first step of "Collecting eggs and sperm") into the PS-coated dish.
+
+Place petri dish under microscope, such that the scratch mark is on the left.
+
+Switch on the microscope and the FemtoJet 4i. Make sure to detach the injection tube first!
+
+::: {#fig-eggs layout="[40,40,40]"}
+
+![Switch on power strip to switch on microscope](micro_photos/included/microscope_ON_button.jpg){#fig-microON}
+
+![Switch on FemtoJet with the button on the back](micro_photos/included/microinjector_ON_button.jpg){#fig-microinjON}
+
+![FemtoJet starts to build up pressure automatically, make sure tube is disconnected](micro_photos/included/microinjector_build_pressure.jpg){#fig-microinjBUILD}
+
+Turning on equipment
+:::
+
+Once the pressure has built up, attach the injection tube to the FemtoJet (TODO note about the ring size). If you see the error message below, make sure that the injection tube is correctly attached to the FemtoJet, and that the needle in the needle holder is all the way in and the tube is screwed on right.
+
+![Microinjector error](micro_photos/included/microinjector_error.jpg){width=300}
+
+Lower needle into the sea water using the macromanipulator. Once the needle touches the water, find the needle through the microscope and lower/adjust focus until the needle touches the bottom of the petri dish. Navigate to the scratch mark. Gently touch the scratch with the end of the needle to break it very slightly. Check with the fluorescent light that there is a good flow of solution.
+
+::: {#fig-eggs layout="[40,60,60]"}
+
+![Broken needle with scratch mark](micro_photos/included/breaking_needle.jpg){#fig-break}
+
+![High speed of injection solution flow, this will be hard to work with](micro_photos/included/speed_liquid_from_needle.mp4){#fig-speed1}
+
+![Ideal speed of injection solution flow](micro_photos/included/speed_liquid2.mp4){#fig-speed2}
+
+Setting up needle in the sea water
+:::
+
+### Rowing the eggs and fertilization
+
+Row 10ul of dejellied eggs in a straight line using a 10 ul pipette tip. If the eggs have been sitting in the glass beaker for a while, they tend to stick to the bottom and pipetting up with the 10ul pipette tip might become difficult. Use a 3ml transfer pipette to pipette up and down near the eggs to stir them up.
+
+![Stir eggs with transfer pipette](micro_photos/included/stir_eggs.jpg){width=300}
+
+Row the eggs on the petri dish parallel and in-between the two lines mentioned above using a pipette. Row the eggs right before the injections, because fertilization problems may occur due to prolonged exposure to 3-AT sea water.
+
+
+
+
+
