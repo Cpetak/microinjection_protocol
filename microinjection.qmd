@@ -6,6 +6,18 @@ editor_options:
 
 ## Microinjections {.unnumbered}
 
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
+### Ingredients
+
+* 3-AT sea water
+* PS-coated petri dish
+* Pipette and tips
+* Dejellied eggs
+* Sperm
+* Microinjection needle
+* Injection solution
+:::
+
 ### Preparation of injection solution and needle
 
 Prepare the following injection solution, preferably the same day it is going to be used.
@@ -77,6 +89,7 @@ Weights used for the puller
 Pulled needles
 :::
 
+
 #### Filling the needle
 
 To fill the needles, pipette up 0.5 ul of injection solution. Use a 10ul pipette tip. Make sure to get the liquid from the top/middle of the tube in order to avoid any precipitate stuck to the bottom/sides of the tube during the centrifugation. 
@@ -116,9 +129,21 @@ Setting up macromanipulator
 Confocal microscope set up
 :::
 
+### Preparing sea water
+
+For embryonic development:
+
+Prepare a beaker (1000 ml) with sea water (12°C, RO + instant ocean salt). Check for correct salinity (\~33%)! Adjust salinity if needed. Place in 15°C fridge. 
+
+For during the microinjection:
+
+Pour 25 ml of the filtered sea water into a 50 ml centrifuge tube and add 25ul of 1M 3-aminotriazole (3-AT) stock solution^[3-AT stock soluion: Prepare 1 M stock solution of 3-aminotriazole (3-AT, MW = 84.08) by dissolving 0.84 g of 3-AT in 10 ml of ddH2O. This solution can be stored at 4 °C for up to 6 months.] to it. “Label as 3AT filtered sea water”. Place the 3AT sea water on ice.
+
+
+
 ### Preparing the petri dish
 
-Take a PS-coated petri dish^[Prepare 1% solution of protamine sulfate (PS) by adding 0.5 g of PS to 50 ml of deionized, distilled water (ddH2O) in a 50 ml conical tube. Shake well at high speed on a bench shaker at room temperature for 1-2 hr to ensure complete dissolution of PS. This solution can be stored at 4 °C for at least 3 months (make sure to completely dissolve gel-like precipitate before each use). Take a sleeve of 60 mm x 15 mm polystyrene Petri dishes and lay out both lids and bottoms on the bench. Warm up PS solution to room temperature. Pour 1% PS solution in each dish (both bottoms and lids can be used) just enough to cover the surface, leave for at least 2 min. The leftover PS solution can be reused many times within 3 months when stored at 4&deg;C.
+Take a PS-coated petri dish^[PS coated dishes: Prepare 1% solution of protamine sulfate (PS) by adding 0.5 g of PS to 50 ml of deionized, distilled water (ddH2O) in a 50 ml conical tube. Shake well at high speed on a bench shaker at room temperature for 1-2 hr to ensure complete dissolution of PS. This solution can be stored at 4 °C for at least 3 months (make sure to completely dissolve gel-like precipitate before each use). Take a sleeve of 60 mm x 15 mm polystyrene Petri dishes and lay out both lids and bottoms on the bench. Warm up PS solution to room temperature. Pour 1% PS solution in each dish (both bottoms and lids can be used) just enough to cover the surface, leave for at least 2 min. The leftover PS solution can be reused many times within 3 months when stored at 4&deg;C.
 Place PS-treated dishes in a beaker filled with distilled water (dH2O). Leave the beaker under running dH2O for at least 10 min. PS-coated dishes can be used immediately or air dry for storage. Cover them to prevent dust accumulation. They can be stored at room temperature for 1 month.], mark middle with a straight black line with marker on the outer side of the dish. Take a razor blade and make a cut parallel to the black line halfway between the black line and the edge of the dish on the inner side of the dish. This scratch will be important to break the injection needle to adjust the flow of solution as needed.
 
 ![Prepared petri dish](micro_photos/included/petri_dish_prep.jpg){width=300}

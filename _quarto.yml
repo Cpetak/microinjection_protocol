@@ -8,6 +8,7 @@ book:
   date: "Fall 2023"
   chapters:
     - index.qmd
+    - construct.qmd
     - eggs_sperm.qmd
     - microinjection.qmd
 

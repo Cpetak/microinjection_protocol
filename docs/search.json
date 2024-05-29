@@ -11,7 +11,7 @@
     "href": "index.html#goals",
     "title": "",
     "section": "Goals",
-    "text": "Goals\nShare protocol Alternatives Equipment, tools, set up Challanges Trouble shooting\nAcknowledge Willow’s help"
+    "text": "Goals\nFunctional validation of candidate regulatory variation\nSub aim: Developing a reliable and efficient method in the lab\nMain idea: GFP reporter construct with modified regulatory region microinjected into fertilized sea urchin eggs -&gt; output intensity of fluorescence, could be:\n\nTissue specific\nDevelopmental time specific\nGenetic background specific\nEnvironment specific\n\n\nPrimary gene of interest\nECM3 - extracellular matrix protein 3. LOC579397 / SPU_001796.\n\nOutlier putatively adaptive cis-regulatory variant.\nDown-regulated in populations most frequently exposed to ph &lt;7.8 & up-regulated in populations less frequently exposed to ph &lt;7.8.\nIn a conserved promoter region with L. variegatus (50 Mya).\nHigh expression during early development\nImportant biomineralisation gene.\n\n\n\n\n\n\n\n\n(a) Expression pattern\n\n\n\n\n\n\n\n(b) Location of ecm3 expression\n\n\n\n\n\n\n\n(c) Emc3 knockout shows abnormal larval skeleton development\n\n\n\n\nFigure 1: Ecm3 facts"
   },
   {
     "objectID": "eggs_sperm.html#footnotes",
@@ -53,6 +53,62 @@
     "href": "microinjection.html#footnotes",
     "title": "Microinjections",
     "section": "",
-    "text": "Prepare 1% solution of protamine sulfate (PS) by adding 0.5 g of PS to 50 ml of deionized, distilled water (ddH2O) in a 50 ml conical tube. Shake well at high speed on a bench shaker at room temperature for 1-2 hr to ensure complete dissolution of PS. This solution can be stored at 4 °C for at least 3 months (make sure to completely dissolve gel-like precipitate before each use). Take a sleeve of 60 mm x 15 mm polystyrene Petri dishes and lay out both lids and bottoms on the bench. Warm up PS solution to room temperature. Pour 1% PS solution in each dish (both bottoms and lids can be used) just enough to cover the surface, leave for at least 2 min. The leftover PS solution can be reused many times within 3 months when stored at 4°C. Place PS-treated dishes in a beaker filled with distilled water (dH2O). Leave the beaker under running dH2O for at least 10 min. PS-coated dishes can be used immediately or air dry for storage. Cover them to prevent dust accumulation. They can be stored at room temperature for 1 month.↩︎"
+    "text": "3-AT stock soluion: Prepare 1 M stock solution of 3-aminotriazole (3-AT, MW = 84.08) by dissolving 0.84 g of 3-AT in 10 ml of ddH2O. This solution can be stored at 4 °C for up to 6 months.↩︎\nPS coated dishes: Prepare 1% solution of protamine sulfate (PS) by adding 0.5 g of PS to 50 ml of deionized, distilled water (ddH2O) in a 50 ml conical tube. Shake well at high speed on a bench shaker at room temperature for 1-2 hr to ensure complete dissolution of PS. This solution can be stored at 4 °C for at least 3 months (make sure to completely dissolve gel-like precipitate before each use). Take a sleeve of 60 mm x 15 mm polystyrene Petri dishes and lay out both lids and bottoms on the bench. Warm up PS solution to room temperature. Pour 1% PS solution in each dish (both bottoms and lids can be used) just enough to cover the surface, leave for at least 2 min. The leftover PS solution can be reused many times within 3 months when stored at 4°C. Place PS-treated dishes in a beaker filled with distilled water (dH2O). Leave the beaker under running dH2O for at least 10 min. PS-coated dishes can be used immediately or air dry for storage. Cover them to prevent dust accumulation. They can be stored at room temperature for 1 month.↩︎"
+  },
+  {
+    "objectID": "eggs_sperm.html",
+    "href": "eggs_sperm.html",
+    "title": "Collecting eggs and sperm",
+    "section": "",
+    "text": "Ingredients\n\n\n\n\n\n\nSyringe and 0.5M KCl\n1.5 ml tubes\nTips and pipettes\nBeakers\n80um Nylon filter mesh\nIce bucket with ice\n\n\n\n\n\nPrepare a beaker (1000 ml) with sea water (12°C, RO + instant ocean salt). Check for correct salinity (~33%)! Adjust salinity if needed.\n\n\n\n\n\n\n\n\n(a) Using the salinity refractometer\n\n\n\n\n\n\n\n(b) how to read the salinity measurement, which should be 33% like on the picture\n\n\n\n\nFigure 1: Checking water salinity\n\n\n\nFill a syringe with 2ml of 0.5 M KCl solution, twist on needle.\n\n\n\n\n\n\n\n\n(a) Filling up syringe\n\n\n\n\n\n\n\n(b) Screwed on needle\n\n\n\n\nFigure 2: Preparing syringe\n\n\n\nTake a new, clean small beaker and fill it almost to the brim with the sea water from Step 1.\nSelect an urchin and use the net to take it out from the tank.\nHold urchin upside down in one hand, hold firmly, and shake the urchin confidently.\n\n\n\n\n\n\n\nVideo\nShaking to spawn urchin\n\n\n\n\nFigure 3: Video about shaking an urchin\n\n\n\nPlace urchin upside down on small full beaker. Make sure that the genital pores are submerged in water. Wait 3-5 minutes. Check for white substance in water regularly.\nIf no spawning is initiated, repeat steps 5 and 6. If you still don’t see any sperm or egg appear, hold urchin upside down in one hand, and inject ~0.5 ml of KCl solution with the other hand. Make sure that you are injecting into the soft part around the mouth, roughly at 3 separate spots. Shake gently.\n\n\n\n\nInjecting urchin with KCl\n\n\n\nRepeat step 6. Continue to shake gently / inject more KCl if no spawning is initiated. White substance should be slowing dropping in water.\nIf the white substance looks like white paint mixed in water, lift urchin, shake gently to remove excess water, and use a 10ul pipette to pipette sperm into 1.5ml tube. Collect as much as possible (however, small amount should be enough in most cases). Try NOT to mix the sperm with sea water.\n\n\n\n\n\n\n\nFigure 4: Spawning male urchin\n\n\n\n\n\n\n\nFigure 5: Dry collection of sperm\n\n\n\n\n\n\n\nFigure 6: Good amount of collected sperm\n\n\n\n\n\n\nCollecting sperm\n\n\n\n\nIf yellowish substance is visible in “droplets”, leave urchin as it is, submerged upside down on small beaker. Eggs will be collected on the bottom.\n\n\n\n\n\n\n\n\n(a) Spawning female urchin\n\n\n\n\n\n\n\n(b) Eggs being collected\n\n\n\n\nFigure 7: Collecting eggs\n\n\n\nAfter enough eggs or sperm is collected, place the urchin back into the tank it came from.\nPlace sperm/eggs on ice. Note time (hour and minutes) in lab book. Label both eggs and sperm.\nFilter the eggs from debris such as animal spines using 80 um nylon filter mesh. The best results are achieved if the eggs are used within 5-7 hr after spawning. Keep filtered eggs on ice.\n\nNOTE: Use a 3ml transfer pipette to pipette up and down near the eggs to stir them up before pouring them through the filter! This is to avoid missing eggs that get stuck to the bottom.\n\n\n\nStir eggs with transfer pipette\n\n\n\n\n\n\n\n\n\n(a) Setting up filter mesh step 1\n\n\n\n\n\n\n\n(b) Setting up filter mesh step 2\n\n\n\n\n\n\n\n(c) Eggs being filtered\n\n\n\n\nFigure 8: Filtering eggs\n\n\n\nDejelly eggs by pouring them through 80um mesh 3 times from 3 cm about tube opening. Too far up -&gt; eggs will break. Too close -&gt; they won’t be dejellied and will move around in petri dish during the microinjections. Note: do this shortly before microinjection.\n\n\n\n\nDejellying by pouring eggs over the mesh from ~3cm\n\n\n\nSperm can be stored in a 4°C fridge for a few days. Eggs can be stored in a 4°C fridge for 24 hours with the addition of antibiotics (50 ul of 10 mg/ml ampicillin to 10 ml of sea water with eggs)."
+  },
+  {
+    "objectID": "index.html#alternative-methods",
+    "href": "index.html#alternative-methods",
+    "title": "",
+    "section": "Alternative methods",
+    "text": "Alternative methods"
+  },
+  {
+    "objectID": "index.html#challanges",
+    "href": "index.html#challanges",
+    "title": "",
+    "section": "Challanges",
+    "text": "Challanges"
+  },
+  {
+    "objectID": "index.html#troubleshooting",
+    "href": "index.html#troubleshooting",
+    "title": "",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\nReference:"
+  },
+  {
+    "objectID": "index.html#available-control-constructs",
+    "href": "index.html#available-control-constructs",
+    "title": "",
+    "section": "Available control constructs",
+    "text": "Available control constructs\nFrom Mamiko Yajima:\n\nSM50-GFP construct\n\nFrom Jimmy Khor1:\n\nSp-anpep_1\nSp-Clect_25\n\n\n\n\n\n\n\n\n(a) SM50-GFP\n\n\n\n\n\n\n\n(b) epGFPII backbone\n\n\n\n\nFigure 2: Constructs\n\n\n\n\n\n\n\n\n\n(a) epGFPII with Sp-anpep_1\n\n\n\n\nFigure 3: GFP expression upon successful Sp-anpep_1 injection"
+  },
+  {
+    "objectID": "index.html#available-testing-constructs",
+    "href": "index.html#available-testing-constructs",
+    "title": "",
+    "section": "Available testing constructs",
+    "text": "Available testing constructs\nepGFPII backbone with:\n\nECM3 promoter region, 1,700 bp upstream TSS\nECM3 promoter region also with UTR\n\n\n\n\n\n\n\n\n(a) epGFPII-Ecm3\n\n\n\n\nFigure 4: Contruct with ECM3 promoter"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "",
+    "section": "",
+    "text": "Khor, J. M., Guerrero-Santoro, J., & Ettensohn, C. A. (2019). Genome-wide identification of binding sites and gene targets of Alx1, a pivotal regulator of echinoderm skeletogenesis. Development, 146(16), dev180653.↩︎"
+  },
+  {
+    "objectID": "construct.html",
+    "href": "construct.html",
+    "title": "Construction of constructs",
+    "section": "",
+    "text": "Order (or PCR amplify) promoter region\nInsert into temporary vector -&gt; infinite supply\nDigest temporary vector, extract target DNA sequence\nDigest target vector\nLigate ends\nBacterial transformation"
   }
 ]
