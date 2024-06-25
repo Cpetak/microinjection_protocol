@@ -1,0 +1,103 @@
+---
+title: "Collecting eggs and sperm"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+## Collecting eggs and sperm {.unnumbered}
+
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
+### Ingredients
+
+-   Syringe and 0.5M KCl
+-   1.5 ml tubes
+-   Tips and pipettes
+-   Beakers
+-   80um Nylon filter mesh
+-   Ice bucket with ice
+:::
+
+1.  Prepare a beaker (1000 ml) with sea water (12°C, RO + instant ocean salt). Check for correct salinity (\~33%)! Adjust salinity if needed.
+
+::: {#fig-salinity layout="[40,40]"}
+![Using the salinity refractometer](../micro_photos/included/salinity_check.jpg){#fig-salinity-filling}
+
+![how to read the salinity measurement, which should be 33% like on the picture](../micro_photos/included/33_salinity.jpg){#fig-salinity-checking}
+
+Checking water salinity
+:::
+
+2.  Fill a syringe with 2ml of 0.5 M KCl solution, twist on needle.
+
+::: {#fig-kcl layout="[40,40]"}
+![Filling up syringe](../micro_photos/included/filling_syringe.jpg){#fig-filling-syringe}
+
+![Screwed on needle](../micro_photos/included/screw_on_needle_KCl.jpg){#fig-srew-needle}
+
+Preparing syringe
+:::
+
+3.  Take a new, clean small beaker and fill it almost to the brim with the sea water from Step 1.
+
+4.  Select an urchin and use the net to take it out from the tank.
+
+5.  Hold urchin upside down in one hand, hold firmly, and shake the urchin confidently.
+
+6.  Place urchin upside down on small full beaker. Make sure that the genital pores are submerged in water. Wait 3-5 minutes. Check for white substance in water regularly.
+
+7.  If no spawning is initiated, repeat steps 5 and 6. If you still don't see any sperm or egg appear, hold urchin upside down in one hand, and inject \~0.5 ml of KCl solution with the other hand. Make sure that you are injecting into the soft part around the mouth, roughly at 3 separate spots. Shake gently.
+
+![Injecting urchin with KCl](../micro_photos/included/kcl_injection.jpg){width="300"}
+
+8.  Repeat step 6. Continue to shake gently / inject more KCl if no spawning is initiated. White substance should be slowing dropping in water.
+
+9.  If the white substance looks like white paint mixed in water, lift urchin, shake gently to remove excess water, and use a 10ul pipette to pipette sperm into 1.5ml tube. Collect as much as possible (however, small amount should be enough in most cases). Try NOT to mix the sperm with sea water.
+
+::: {layout="[40,40,40]"}
+![Spawning male urchin](../micro_photos/included/male_spawning.jpg){#fig-male1}
+
+![Dry collection of sperm](../micro_photos/included/sperm_dry_collection.jpg){#fig-male2}
+
+![Good amount of collected sperm](../micro_photos/included/collected_sperm.jpg){#fig-male3}
+
+Collecting sperm
+:::
+
+10. If yellowish substance is visible in “droplets”, leave urchin as it is, submerged upside down on small beaker. Eggs will be collected on the bottom.
+
+::: {#fig-eggs layout="[40,40]"}
+![Spawning female urchin](../micro_photos/included/female_spawining.jpg){#fig-female1}
+
+![Eggs being collected](../micro_photos/included/female_spawining2.jpg){#fig-female2}
+
+Collecting eggs
+:::
+
+11. After enough eggs or sperm is collected, place the urchin back into the tank it came from.
+
+12. Place sperm/eggs on ice. Note time (hour and minutes) in lab book. Label both eggs and sperm.
+
+13. Filter the eggs from debris such as animal spines using 80 um nylon filter mesh. The best results are achieved if the eggs are used within 5-7 hr after spawning. Keep filtered eggs on ice.
+
+NOTE: Use a 3ml transfer pipette to pipette up and down near the eggs to stir them up before pouring them through the filter! This is to avoid missing eggs that get stuck to the bottom.
+
+![Stir eggs with transfer pipette](../micro_photos/included/stir_eggs.jpg){width="300"}
+
+::: {#fig-filtering layout="[40,40,40]"}
+![Setting up filter mesh step 1](../micro_photos/included/filter_on_tube.jpg){#fig-filtering1}
+
+![Setting up filter mesh step 2](../micro_photos/included/filter_on_tube2.jpg){#fig-filtering2}
+
+![Eggs being filtered](../micro_photos/included/filter_eggs.jpg){#fig-filtering3}
+
+Filtering eggs
+:::
+
+14. Dejelly eggs by pouring them through 80um mesh 3 times from 3 cm about tube opening. Too far up -\> eggs will break. Too close -\> they won’t be dejellied and will move around in petri dish during the microinjections. Note: do this shortly before microinjection.
+
+![Dejellying by pouring eggs over the mesh from \~3cm](../micro_photos/included/dejellying.jpg){width="300"}
+
+15. Sperm can be stored in a 4°C fridge for a few days. Eggs can be stored in a 4°C fridge for 24 hours with the addition of antibiotics (50 ul of 10 mg/ml ampicillin to 10 ml of sea water with eggs).

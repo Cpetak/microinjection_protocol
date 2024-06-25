@@ -1,0 +1,8 @@
+## Construction of constructs {.unnumbered}
+
+1. Order (or PCR amplify) promoter region
+2. Insert into temporary vector -> infinite supply
+3. Digest temporary vector, extract target DNA sequence
+4. Digest target vector
+5. Ligate ends
+6. Bacterial transformation

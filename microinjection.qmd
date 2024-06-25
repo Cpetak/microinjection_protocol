@@ -6,6 +6,8 @@ editor_options:
 
 ## Microinjections {.unnumbered}
 
+[Pdf version with images](https://quarto.org)
+
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 ### Ingredients
 

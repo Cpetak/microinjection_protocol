@@ -1,0 +1,83 @@
+%![](micro_photos/included/microinj_pipe.png){width=65%}
+
+# Welcome {.unnumbered}
+
+We would like to thank Jian Ming Khor and Gary Wessel for their useful tips and helpful correspondence.
+
+## Goals {.unnumbered}
+
+**Functional validation of candidate regulatory variation**
+
+Sub aim: Developing a reliable and efficient method in the lab
+
+Main idea: GFP reporter construct with modified regulatory region microinjected into fertilized sea urchin eggs -> output intensity of fluorescence, could be:
+
+* Tissue specific
+* Developmental time specific
+* Genetic background specific
+* Environment specific
+
+### Primary gene of interest
+
+**ECM3 - extracellular matrix protein 3**. LOC579397 / SPU_001796. 
+
+* Outlier putatively adaptive cis-regulatory variant. 
+* Down-regulated in populations most frequently exposed to ph <7.8 & up-regulated in populations less frequently exposed to ph <7.8.
+* In a conserved promoter region with L. variegatus (50 Mya).
+* High expression during early development
+* Important biomineralisation gene.
+
+::: {#fig-eggs layout="[30,40,40]"}
+
+![Expression pattern](micro_photos/included/ecm3_3.png){#fig-weights2}
+
+![Location of ecm3 expression](micro_photos/included/ecm3_1.png){#fig-weights1}
+
+![Emc3 knockout shows abnormal larval skeleton development](micro_photos/included/ecm3_2.png){#fig-weights2}
+
+Ecm3 facts
+:::
+
+## Available control constructs
+From Mamiko Yajima:
+
+* SM50-GFP construct
+
+From Jimmy Khor^[Khor, J. M., Guerrero-Santoro, J., & Ettensohn, C. A. (2019). Genome-wide identification of binding sites and gene targets of Alx1, a pivotal regulator of echinoderm skeletogenesis. Development, 146(16), dev180653.]:
+
+* **Sp-anpep_1**
+* Sp-Clect_25
+
+::: {#fig-eggs layout="[41,40]"}
+![SM50-GFP](micro_photos/included/mamiko.png){#fig-weights2 width=400}
+
+![epGFPII backbone](micro_photos/included/khor.png){#fig-weights2 width=400}
+
+Constructs
+:::
+
+::: {#fig-eggs layout="[40]"}
+![epGFPII with Sp-anpep_1](micro_photos/included/success.png){#fig-weights2 width=300}
+
+GFP expression upon successful Sp-anpep_1 injection
+:::
+
+## Available testing constructs
+epGFPII backbone with:
+
+* ECM3 promoter region, 1,700 bp upstream TSS
+* ECM3 promoter region also with UTR
+
+::: {#fig-eggs layout="[40]"}
+![epGFPII-Ecm3](micro_photos/included/petak.png){#fig-weights2 width=500}
+
+Contruct with ECM3 promoter
+:::
+
+## Alternative methods
+
+## Challanges
+
+## Troubleshooting
+
+Reference:
