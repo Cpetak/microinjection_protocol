@@ -11,6 +11,7 @@ book:
     - construct.qmd
     - eggs_sperm.qmd
     - microinjection.qmd
+    - visualisation.qmd
 
 bibliography: references.bib
 

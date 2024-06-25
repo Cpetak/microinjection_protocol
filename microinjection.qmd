@@ -51,34 +51,46 @@ Injection solution should be centrifuged for 15 minutes at max speed immediately
 #### Preparation of the needle
 
 ::: {.callout-warning}
-Be careful never to touch either ends of the needle!
+Be careful never to touch either ends of the needle nor the coil that heats up the glass - it is HOT! Wear gloves!
 :::
 
-We used a Narishige puller, model PP-830
+We used a Narishige puller, model PP-830 with Narishige GD-1 glass capillary with filament with the following settings:
 
-::: {#fig-eggs layout="[40,40]"}
+Two stage: 67.4&deg;C, 80.2&deg;C. 
 
-![Needle puller machine](micro_photos/included/needle_puller.jpg){#fig-puller1}
+Weight: 248.01 g.
 
-![6th grid setting](micro_photos/included/needle_puller2.jpg){#fig-puller2}
+Setting of the height on the side, next to the stopper: 6.
 
-Needle puller set up
-:::
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 
-with the following settings:
+### Photo
 
-Two stage: 67.4&deg;C, 80.2&deg;C.
+![6th grid setting](micro_photos/included/needle_puller2.jpg){width=400}
 
-Weight: 248.01 g
+::: 
 
-::: {#fig-eggs layout="[40,40]"}
+![Needle puller machine](micro_photos/included/needle_puller_parts.jpg){width=500}
 
-![Puller weights on scale](micro_photos/included/needle_puller_weights.jpg){#fig-weights1}
+Step 1: Make sure that the coil adjuster is set to the maximum - the coil is the upper most position possible.
 
-![Puller weights on the machine](micro_photos/included/puller_weight.jpg){#fig-weights2}
+Step 2: Place a glass capillary through the coil and tighten the top screw. Then, push up the bottom part with the weight and screw in the bottom screw. For a two-stage pull (used in this protocol), the bottom part of the needle puller with the weight should not be touching the stopper. That is where the apparatus will arrive at the end of the first pull. See video below.
 
-Weights used for the puller
-:::
+Step 3: Make sure that the coil is approximately at the middle of the capillary. This is important to end up with equal length needles. Adjust capillary position if needed. Do not adjust the position of the coil. Set up at the end of this step:
+
+![Correct capillary position](micro_photos/included/capillary_position.jpg){width=400}
+
+Step 4: Add the correct amount of weight to the bottom of the puller, 248.01 g in this protocol. We used the items below to achieve this weight.
+
+
+![Puller weights on the machine](micro_photos/included/puller_weight.jpg){width=350}
+
+Step 5: Push the red start button. The coil will heat up and the bottom of the puller will slowly drop onto the stopper. At this point, adjust the coil to be in the thinnest (melted) part of the capillary. This has to be precise! Remove the stopper and press the red start button again. The bottom of the puller will drop to the bottom and you'll end up with two needles.
+
+![Video of using the needle puller](micro_photos/included/pulling_video.mp4){width=500}
+
+Step 6: Carefully remove the two needles by loosening the screws and taking them out sideways to avoid touching anything with the needle (it will very likely break due to the slightest touch). Place the needles in a petri dish with a folded tape on the bottom.
+
 
 ::: {#fig-eggs layout="[40,40]"}
 
@@ -222,10 +234,7 @@ Move to the next cell using the micromanipulator and the stage controller. Repea
 
 When done (fertilized eggs hardened or injected enough eggs), remove the dish from the stage and carefully aspirate out water using a transfer pipette.
  
-Do not let the zygotes dry. Quickly add fresh prechilled sea water (from the 15&deg;C fridge) to cover the dish. Label the petri dish (your name, date, time in hours and minutes, number of eggs injected, type of injection solution used). Incubate the embryos at 15&deg;C.
+Do not let the zygotes dry. Quickly add fresh prechilled sea water (from the 15&deg;C fridge) to cover the dish. Label the petri dish (your name, date, time in hours and minutes, number of eggs injected, type of injection solution used). Incubate the embryos at 15&deg;C. It is recommended to put the petri dishes with the embryos in sealed boxes with a wet paper towel to minimize evaporation of water from the sea water. 
 
-### Visualising embryos
-
-WIP
 
 

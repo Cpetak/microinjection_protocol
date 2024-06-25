@@ -2,7 +2,7 @@
 
 # Welcome {.unnumbered}
 
-
+We would like to thank Jian Ming Khor and Gary Wessel for their useful tips and helpful correspondence.
 
 ## Goals {.unnumbered}
 
