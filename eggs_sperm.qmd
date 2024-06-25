@@ -6,6 +6,8 @@ editor_options:
 
 ## Collecting eggs and sperm {.unnumbered}
 
+[Pdf version with images](https://cpetak.github.io/eggs_sperm.pdf)
+
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 ### Ingredients
 

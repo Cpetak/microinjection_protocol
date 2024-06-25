@@ -6,7 +6,7 @@ editor_options:
 
 ## Microinjections {.unnumbered}
 
-[Pdf version with images](https://quarto.org)
+[Pdf version with images](https://cpetak.github.io/microinjection.pdf)
 
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 ### Ingredients

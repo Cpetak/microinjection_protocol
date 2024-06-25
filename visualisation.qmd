@@ -6,6 +6,8 @@ editor_options:
 
 ## Visualising larvae {.unnumbered}
 
+[Pdf version with images](https://cpetak.github.io/visualisation.pdf)
+
 ## Preparation of larvae
 
 ### 24 hours post fertilisation
