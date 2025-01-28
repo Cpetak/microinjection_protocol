@@ -74,10 +74,4 @@ epGFPII backbone with:
 Contruct with ECM3 promoter
 :::
 
-## Alternative methods
-
-## Challanges
-
-## Troubleshooting
-
 Reference:
